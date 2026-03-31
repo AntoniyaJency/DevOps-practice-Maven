@@ -1,1 +1,1 @@
-This is Maven project
+This is Maven project.
